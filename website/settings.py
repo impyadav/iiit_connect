@@ -124,6 +124,6 @@ STATIC_URL = '/static/'
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER  = '201451041@iiitvadodara.ac.in'
-EMAIL_HOST_PASSWORD = '13045632'
+EMAIL_HOST_PASSWORD = ''
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
